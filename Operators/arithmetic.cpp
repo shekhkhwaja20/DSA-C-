@@ -26,5 +26,7 @@ int main()
      cout<<(a*=5)<<" ";
      cout<<(a/=5)<<" ";
      cout<<(a%=5)<<" ";
+     // Bitwise Operator
+      
 
 }
