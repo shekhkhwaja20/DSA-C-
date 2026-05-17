@@ -14,7 +14,17 @@ int main()
    cout<<flag<<endl;
 
    cout<<(&a)<<endl;
-
+    // post increment 
+    // preincrement 
+    int c=5;
+   // cout<<(++c);
+    cout<<(c++);
+    cout<<(c);
+    cout<<endl;
+    // post decrement 
+    // pre decrement 
+    cout<<(c--)<<endl;
+    cout<<(--c);
    return 0;
 
 }
